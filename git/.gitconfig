@@ -1,0 +1,14 @@
+[user]
+	name = Dyomin Ilya
+	email = alkhipce@mail.ru
+[core]
+	editor = \"C:\\Users\\alkhipce\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+	autocrlf = true
+	eol = lf
+[alias]
+	pl = pull
+	ph = push
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
