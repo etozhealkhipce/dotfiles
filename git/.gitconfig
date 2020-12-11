@@ -5,6 +5,7 @@
 	editor = \"C:\\Users\\alkhipce\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
 	autocrlf = true
 	eol = lf
+	ignorecase = false
 [alias]
 	pl = pull
 	ph = push
