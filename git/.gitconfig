@@ -13,4 +13,4 @@
 	ci = commit
 	st = status
 	br = branch
-	plsm = !sh -c 'git pull && git submodule update --remote'
+	plsm = !sh -c 'git submodule update --remote && git pull'
